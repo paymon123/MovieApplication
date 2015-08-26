@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="pref_entries" translatable="false"><item>Popularity</item><item>Rating</item><item>Favorites</item></string-array>
+    <string-array name="pref_values" translatable="false"><item>popularity</item><item>rating</item><item>favorites</item></string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_youtube">Movie Trailer</string>
+
+</resources>
